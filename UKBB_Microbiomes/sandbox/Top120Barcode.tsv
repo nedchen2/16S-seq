@@ -1,0 +1,133 @@
+"repeats"	"BarcodeSequence"	"sample_name"	"LinkerPrimerSequence"	"CollectionSite"	"Species"	"Infection"	"Infection.intensity"	"Description"
+588432	"TAAGGCGGTAAGGA"	"172"	"AGAGTTTGATCCTGGCTCAG"	"Upton"	"B. runderartus"	"Uninfected"	"No infection"	"172"
+389142	"TAAGGCGAAGGAGT"	"79"	"AGAGTTTGATCCTGGCTCAG"	"Hillesden"	"B. terrestris"	"Infected"	"High load"	"79"
+375553	"TAAGGCGCTCTCTA"	"242"	"AGAGTTTGATCCTGGCTCAG"	"Upton"	"B. terrestris"	"Uninfected"	"No infection"	"242"
+357809	"AAGAGGCACTGCAT"	"22"	"AGAGTTTGATCCTGGCTCAG"	"Caistor, Norfolk"	"B. hortorum"	"Uninfected"	"No infection"	"22"
+323599	"AAGAGGCGCGTAAG"	NA	NA	NA	NA	NA	NA	NA
+293266	"AGGCAGACTAAGCC"	"230"	"AGAGTTTGATCCTGGCTCAG"	"Upton"	"B. terrestris"	"Infected"	"Low load"	"230"
+288390	"TAAGGCGTATCCTC"	"65"	"AGAGTTTGATCCTGGCTCAG"	"Ouse"	"B. terrestris"	"Uninfected"	"No infection"	"65"
+248708	"AGGCAGAACTGCAT"	"136"	"AGAGTTTGATCCTGGCTCAG"	"Hillesden"	"B. runderartus"	"Uninfected"	"No infection"	"136"
+229753	"TCCTGAGCTAAGCC"	"202"	"AGAGTTTGATCCTGGCTCAG"	"Ouse"	"B. hortorum"	"Infected"	"High load"	"202"
+224090	"CAGAGAGCTAAGCC"	"31"	"AGAGTTTGATCCTGGCTCAG"	"Ouse"	"B. terrestris"	"Uninfected"	"No infection"	"31"
+216580	"AAGAGGCGTAAGGA"	"83"	"AGAGTTTGATCCTGGCTCAG"	"Caistor, Norfolk"	"B. hortorum"	"Infected"	"High load"	"83"
+216395	"AAGAGGCTATCCTC"	"68"	"AGAGTTTGATCCTGGCTCAG"	"Caistor, Norfolk"	"B. terrestris"	"Infected"	"Low load"	"68"
+212978	"CTCTCTACTAAGCC"	"62"	"AGAGTTTGATCCTGGCTCAG"	"Ouse"	"B. runderartus"	"Infected"	"High load"	"62"
+212241	"TAAGGCGACTGCAT"	"34"	"AGAGTTTGATCCTGGCTCAG"	"Upton"	"B. runderartus"	"Infected"	"High load"	"34"
+211683	"AAGAGGCCTCTCTA"	"106"	"AGAGTTTGATCCTGGCTCAG"	"Ouse"	"B. terrestris"	"Infected"	"High load"	"106"
+204926	"TAGGCATGTAAGGA"	"138"	"AGAGTTTGATCCTGGCTCAG"	"Upton"	"B. runderartus"	"Infected"	"Low load"	"138"
+201648	"TAGGCATCTAAGCC"	"171"	"AGAGTTTGATCCTGGCTCAG"	"Ouse"	"B. runderartus"	"Infected"	"High load"	"171"
+199009	"CTCTCTAGTAAGGA"	"60"	"AGAGTTTGATCCTGGCTCAG"	"Hillesden"	"B. hortorum"	"Infected"	"High load"	"60"
+198476	"AGGCAGAGTAAGGA"	"48"	"AGAGTTTGATCCTGGCTCAG"	"Upton"	"B. hortorum"	"Infected"	"Low load"	"48"
+197943	"TAGGCATACTGCAT"	"111"	"AGAGTTTGATCCTGGCTCAG"	"Upton"	"B. runderartus"	"Infected"	"Low load"	"111"
+190983	"AAGAGGCAAGGAGT"	"143"	"AGAGTTTGATCCTGGCTCAG"	"Upton"	"B. hortorum"	"Infected"	"High load"	"143"
+188007	"TAGGCATAAGGAGT"	"165"	"AGAGTTTGATCCTGGCTCAG"	"Caistor, Norfolk"	"B. runderartus"	"Infected"	"Low load"	"165"
+186883	"TAGGCATTATCCTC"	"37"	"AGAGTTTGATCCTGGCTCAG"	"Caistor, Norfolk"	"B. runderartus"	"Infected"	"Low load"	"37"
+180457	"TCCTGAGACTGCAT"	"193"	"AGAGTTTGATCCTGGCTCAG"	"Hillesden"	"B. runderartus"	"Infected"	"High load"	"193"
+177364	"AAGAGGCCTAAGCC"	"92"	"AGAGTTTGATCCTGGCTCAG"	"Hillesden"	"B. runderartus"	"Uninfected"	"No infection"	"92"
+173618	"AGGCAGACTCTCTA"	"77"	"AGAGTTTGATCCTGGCTCAG"	"Hillesden"	"B. terrestris"	"Infected"	"High load"	"77"
+168422	"GGACTCCAAGGAGT"	"150"	"AGAGTTTGATCCTGGCTCAG"	"Hillesden"	"B. hortorum"	"Infected"	"High load"	"150"
+163406	"AGGCAGAGCGTAAG"	NA	NA	NA	NA	NA	NA	NA
+158980	"GGACTCCCTAAGCC"	"216"	"AGAGTTTGATCCTGGCTCAG"	"Hillesden"	"B. runderartus"	"Uninfected"	"No infection"	"216"
+150422	"CAGAGAGCTCTCTA"	"112"	"AGAGTTTGATCCTGGCTCAG"	"Hillesden"	"B. hortorum"	"Uninfected"	"No infection"	"112"
+146789	"TAGGCATCTCTCTA"	"38"	"AGAGTTTGATCCTGGCTCAG"	"Hillesden"	"B. runderartus"	"Infected"	"High load"	"38"
+146436	"CTCTCTAGCGTAAG"	NA	NA	NA	NA	NA	NA	NA
+146333	"TAGGCATGCGTAAG"	NA	NA	NA	NA	NA	NA	NA
+145483	"GGACTCCGCGTAAG"	NA	NA	NA	NA	NA	NA	NA
+138931	"TAAGGCGCTAAGCC"	"167"	"AGAGTTTGATCCTGGCTCAG"	"Upton"	"B. hortorum"	"Infected"	"High load"	"167"
+137834	"GGACTCCCTCTCTA"	"24"	"AGAGTTTGATCCTGGCTCAG"	"Caistor, Norfolk"	"B. terrestris"	"Uninfected"	"No infection"	"24"
+136324	"CGAGGCTGTAAGGA"	"57"	"AGAGTTTGATCCTGGCTCAG"	"Hillesden"	"B. hortorum"	"Uninfected"	"No infection"	"57"
+130494	"CGAGGCTAAGGAGT"	"131"	"AGAGTTTGATCCTGGCTCAG"	"Upton"	"B. runderartus"	"Infected"	"High load"	"131"
+130352	"CTCTCTACTCTCTA"	"29"	"AGAGTTTGATCCTGGCTCAG"	"Caistor, Norfolk"	"B. terrestris"	"Uninfected"	"No infection"	"29"
+128433	"CGTACTACTAAGCC"	"192"	"AGAGTTTGATCCTGGCTCAG"	"Ouse"	"B. runderartus"	"Infected"	"Low load"	"192"
+119105	"AGGCAGATATCCTC"	"2"	"AGAGTTTGATCCTGGCTCAG"	"Ouse"	"B. hortorum"	"Infected"	"Low load"	"2"
+112022	"TCCTGAGGCGTAAG"	NA	NA	NA	NA	NA	NA	NA
+111059	"CAGAGAGACTGCAT"	"238"	"AGAGTTTGATCCTGGCTCAG"	"Hillesden"	"B. runderartus"	"Uninfected"	"No infection"	"238"
+110254	"TAAGGCGAGAGTAG"	"117"	"AGAGTTTGATCCTGGCTCAG"	"Upton"	"B. hortorum"	"Infected"	"High load"	"117"
+109861	"GTAGAGGCTCTCTA"	"44"	"AGAGTTTGATCCTGGCTCAG"	"Ouse"	"B. hortorum"	"Uninfected"	"No infection"	"44"
+107343	"TCCTGAGCTCTCTA"	"219"	"AGAGTTTGATCCTGGCTCAG"	"Hillesden"	"B. terrestris"	"Uninfected"	"No infection"	"219"
+105074	"CTCTCTAACTGCAT"	"25"	"AGAGTTTGATCCTGGCTCAG"	"Caistor, Norfolk"	"B. terrestris"	"Uninfected"	"No infection"	"25"
+101109	"TCCTGAGAAGGAGT"	"205"	"AGAGTTTGATCCTGGCTCAG"	"Ouse"	"B. terrestris"	"Infected"	"High load"	"205"
+99500	"TCCTGAGTATCCTC"	"247"	"AGAGTTTGATCCTGGCTCAG"	"Upton"	"B. terrestris"	"Infected"	"High load"	"247"
+95727	"CAGAGAGGCGTAAG"	NA	NA	NA	NA	NA	NA	NA
+92666	"CGTACTATATCCTC"	"70"	"AGAGTTTGATCCTGGCTCAG"	"Hillesden"	"B. terrestris"	"Infected"	"High load"	"70"
+92582	"TAGGCATAGAGTAG"	"89"	"AGAGTTTGATCCTGGCTCAG"	"Caistor, Norfolk"	"B. terrestris"	"Infected"	"Low load"	"89"
+91690	"CGTACTAACTGCAT"	"78"	"AGAGTTTGATCCTGGCTCAG"	"Hillesden"	"B. terrestris"	"Infected"	"High load"	"78"
+82605	"CGTACTAGCGTAAG"	NA	NA	NA	NA	NA	NA	NA
+79506	"CGAGGCTTATCCTC"	"139"	"AGAGTTTGATCCTGGCTCAG"	"Ouse"	"B. hortorum"	"Infected"	"Low load"	"139"
+74005	"GGACTCCACTGCAT"	"153"	"AGAGTTTGATCCTGGCTCAG"	"Ouse"	"B. runderartus"	"Infected"	"High load"	"153"
+71031	"AGGCAGAAGAGTAG"	"63"	"AGAGTTTGATCCTGGCTCAG"	"Ouse"	"B. runderartus"	"Uninfected"	"No infection"	"63"
+67192	"CAGAGAGAAGGAGT"	"134"	"AGAGTTTGATCCTGGCTCAG"	"Hillesden"	"B. runderartus"	"Uninfected"	"No infection"	"134"
+65954	"CGTACTAAGAGTAG"	"235"	"AGAGTTTGATCCTGGCTCAG"	"Hillesden"	"B. terrestris"	"Uninfected"	"No infection"	"235"
+65796	"GCTACGCGCGTAAG"	NA	NA	NA	NA	NA	NA	NA
+62458	"GTAGAGGTATCCTC"	"Blank"	"AGAGTTTGATCCTGGCTCAG"	"Blank"	"Blank"	"Blank"	"Blank"	"Blank"
+60045	"CGTACTAAAGGAGT"	"178"	"AGAGTTTGATCCTGGCTCAG"	"Caistor, Norfolk"	"B. hortorum"	"Infected"	"High load"	"178"
+57352	"GGACTCCAGAGTAG"	"191"	"AGAGTTTGATCCTGGCTCAG"	"Ouse"	"B. hortorum"	"Infected"	"High load"	"191"
+53934	"CTCTCTAAAGGAGT"	"4"	"AGAGTTTGATCCTGGCTCAG"	"Ouse"	"B. hortorum"	"Infected"	"Low load"	"4"
+53778	"CAGAGAGAGAGTAG"	"28"	"AGAGTTTGATCCTGGCTCAG"	"Ouse"	"B. terrestris"	"Infected"	"High load"	"28"
+51267	"GGACTCCGTAAGGA"	"168"	"AGAGTTTGATCCTGGCTCAG"	"Hillesden"	"B. terrestris"	"Uninfected"	"No infection"	"168"
+49945	"GGACTCCTATCCTC"	"181"	"AGAGTTTGATCCTGGCTCAG"	"Caistor, Norfolk"	"B. hortorum"	"Infected"	"High load"	"181"
+47678	"TCCTGAGAGAGTAG"	"108"	"AGAGTTTGATCCTGGCTCAG"	"Upton"	"B. terrestris"	"Uninfected"	"No infection"	"108"
+43204	"GCTACGCGTAAGGA"	"184"	"AGAGTTTGATCCTGGCTCAG"	"Upton"	"B. hortorum"	"Uninfected"	"No infection"	"184"
+40664	"GCTACGCAAGGAGT"	"252"	"AGAGTTTGATCCTGGCTCAG"	"Upton"	"B. terrestris"	"Infected"	"High load"	"252"
+36078	"TCCTGAGGTAAGGA"	"176"	"AGAGTTTGATCCTGGCTCAG"	"Caistor, Norfolk"	"B. hortorum"	"Infected"	"High load"	"176"
+32853	"AGGCAGAAAGGAGT"	"163"	"AGAGTTTGATCCTGGCTCAG"	"Ouse"	"B. runderartus"	"Uninfected"	"No infection"	"163"
+30305	"CGAGGCTCTAAGCC"	"52"	"AGAGTTTGATCCTGGCTCAG"	"Ouse"	"B. hortorum"	"Infected"	"High load"	"52"
+29714	"CAGAGAGTATCCTC"	"152"	"AGAGTTTGATCCTGGCTCAG"	"Ouse"	"B. runderartus"	"Uninfected"	"No infection"	"152"
+29321	"CGTACTAGTAAGGA"	"14"	"AGAGTTTGATCCTGGCTCAG"	"Ouse"	"B. hortorum"	"Infected"	"High load"	"14"
+28762	"GCTACGCCTAAGCC"	"9"	"AGAGTTTGATCCTGGCTCAG"	"Hillesden"	"B. hortorum"	"Infected"	"High load"	"9"
+26997	"GCTACGCTATCCTC"	"27"	"AGAGTTTGATCCTGGCTCAG"	"Upton"	"B. terrestris"	"Uninfected"	"No infection"	"27"
+26752	"GCTACGCCTCTCTA"	"59"	"AGAGTTTGATCCTGGCTCAG"	"Hillesden"	"B. hortorum"	"Infected"	"High load"	"59"
+23267	"  23267 "	NA	NA	NA	NA	NA	NA	NA
+22201	"CAGAGAGGTAAGGA"	"175"	"AGAGTTTGATCCTGGCTCAG"	"Hillesden"	"B. runderartus"	"Infected"	"High load"	"175"
+21679	"CGAGGCTACTGCAT"	"40"	"AGAGTTTGATCCTGGCTCAG"	"Ouse"	"B. runderartus"	"Infected"	"High load"	"40"
+21312	"CGAGGCTGCGTAAG"	NA	NA	NA	NA	NA	NA	NA
+19560	"CGAGGCTCTCTCTA"	"174"	"AGAGTTTGATCCTGGCTCAG"	"Hillesden"	"B. runderartus"	"Infected"	"High load"	"174"
+19148	"TAAGGCGGCGTAAG"	NA	NA	NA	NA	NA	NA	NA
+17190	"CGAGGCTAGAGTAG"	"128"	"AGAGTTTGATCCTGGCTCAG"	"Upton"	"B. hortorum"	"Infected"	"High load"	"128"
+16876	"CTCTCTAAGAGTAG"	"81"	"AGAGTTTGATCCTGGCTCAG"	"Upton"	"B. terrestris"	"Infected"	"High load"	"81"
+15303	"TAAGGCGTCTTTCC"	NA	NA	NA	NA	NA	NA	NA
+14754	"CTCTCTATATCCTC"	"54"	"AGAGTTTGATCCTGGCTCAG"	"Upton"	"B. hortorum"	"Uninfected"	"No infection"	"54"
+12688	"GTAGAGGGCGTAAG"	NA	NA	NA	NA	NA	NA	NA
+11362	"AAGAGGCTCTTTCC"	NA	NA	NA	NA	NA	NA	NA
+10418	"TAGGCATTCTTTCC"	NA	NA	NA	NA	NA	NA	NA
+10397	"AAGAGGCAGAGTAG"	"1"	"AGAGTTTGATCCTGGCTCAG"	"Upton"	"B. hortorum"	"Uninfected"	"No infection"	"1"
+10386	"GCTACGCAGAGTAG"	"157"	"AGAGTTTGATCCTGGCTCAG"	"Caistor, Norfolk"	"B. runderartus"	"Infected"	"High load"	"157"
+9818	"CTCTCTATCTTTCC"	NA	NA	NA	NA	NA	NA	NA
+9738	"CGTACTACTCTCTA"	"64"	"AGAGTTTGATCCTGGCTCAG"	"Ouse"	"B. runderartus"	"Uninfected"	"No infection"	"64"
+8208	"AGGCAGATCTTTCC"	NA	NA	NA	NA	NA	NA	NA
+7758	"TCCTGAGTCTTTCC"	NA	NA	NA	NA	NA	NA	NA
+6318	"GGACTCCTCTTTCC"	NA	NA	NA	NA	NA	NA	NA
+5753	"CAGAGAGTCTTTCC"	NA	NA	NA	NA	NA	NA	NA
+4729	"CGTACTATCTTTCC"	NA	NA	NA	NA	NA	NA	NA
+4472	"TAAGGCGACGGAGT"	NA	NA	NA	NA	NA	NA	NA
+3481	"AAAAAAATCTTTCC"	NA	NA	NA	NA	NA	NA	NA
+3331	"TAAGGCGGCAAGGA"	NA	NA	NA	NA	NA	NA	NA
+3141	"GCTACGCACTGCAT"	"41"	"AGAGTTTGATCCTGGCTCAG"	"Upton"	"B. runderartus"	"Infected"	"High load"	"41"
+3111	"TAAGGCGGTAAGGC"	NA	NA	NA	NA	NA	NA	NA
+2968	"CGAGGCTTCTTTCC"	NA	NA	NA	NA	NA	NA	NA
+2869	"TCTTTTTTTTTTTT"	NA	NA	NA	NA	NA	NA	NA
+2491	"TAAGGAGTCTTTCC"	NA	NA	NA	NA	NA	NA	NA
+2405	"AAGAGGCACGGAGT"	NA	NA	NA	NA	NA	NA	NA
+2335	"TAGGCATACGGAGT"	NA	NA	NA	NA	NA	NA	NA
+2245	"AAGAAAATCTTTCC"	NA	NA	NA	NA	NA	NA	NA
+2155	"TAAGGCGAAGGAGA"	NA	NA	NA	NA	NA	NA	NA
+2136	"TAAGGCGAAGGAGG"	NA	NA	NA	NA	NA	NA	NA
+1958	"GGACTCCACGGAGT"	NA	NA	NA	NA	NA	NA	NA
+1922	"TAAGGCGCAGGAGT"	NA	NA	NA	NA	NA	NA	NA
+1900	"AGGCAGATAAGCCT"	NA	NA	NA	NA	NA	NA	NA
+1895	"AGAGAGGCTAAGCC"	NA	NA	NA	NA	NA	NA	NA
+1857	"CGAGGCTACGGAGT"	NA	NA	NA	NA	NA	NA	NA
+1838	"TAAGGCGATCTCTA"	NA	NA	NA	NA	NA	NA	NA
+1834	"TAAGGCGCTCTCTC"	NA	NA	NA	NA	NA	NA	NA
+NA	"TAAGGCGTAGATCG"	"169"	"AGAGTTTGATCCTGGCTCAG"	"Upton"	"B. runderartus"	"Infected"	"High load"	"169"
+NA	"CGTACTATAGATCG"	"20"	"AGAGTTTGATCCTGGCTCAG"	"Caistor, Norfolk"	"B. hortorum"	"Infected"	"Low load"	"20"
+NA	"AGGCAGATAGATCG"	"93"	"AGAGTTTGATCCTGGCTCAG"	"Caistor, Norfolk"	"B. terrestris"	"Infected"	"Low load"	"93"
+NA	"TCCTGAGTAGATCG"	"246"	"AGAGTTTGATCCTGGCTCAG"	"Hillesden"	"B. terrestris"	"Uninfected"	"No infection"	"246"
+NA	"GGACTCCTAGATCG"	"76"	"AGAGTTTGATCCTGGCTCAG"	"Ouse"	"B. terrestris"	"Uninfected"	"No infection"	"76"
+NA	"TAGGCATTAGATCG"	"23"	"AGAGTTTGATCCTGGCTCAG"	"Hillesden"	"B. terrestris"	"Infected"	"High load"	"23"
+NA	"CTCTCTATAGATCG"	"155"	"AGAGTTTGATCCTGGCTCAG"	"Caistor, Norfolk"	"B. terrestris"	"Infected"	"Low load"	"155"
+NA	"CAGAGAGTAGATCG"	"36"	"AGAGTTTGATCCTGGCTCAG"	"Ouse"	"B. runderartus"	"Uninfected"	"No infection"	"36"
+NA	"GCTACGCTAGATCG"	"129"	"AGAGTTTGATCCTGGCTCAG"	"Ouse"	"B. terrestris"	"Infected"	"High load"	"129"
+NA	"CGAGGCTTAGATCG"	"42"	"AGAGTTTGATCCTGGCTCAG"	"Ouse"	"B. runderartus"	"Infected"	"High load"	"42"
+NA	"AAGAGGCTAGATCG"	"142"	"AGAGTTTGATCCTGGCTCAG"	"Hillesden"	"B. hortorum"	"Uninfected"	"No infection"	"142"
+NA	"GTAGAGGTAGATCG"	"19"	"AGAGTTTGATCCTGGCTCAG"	"Caistor, Norfolk"	"B. hortorum"	"Infected"	"Low load"	"19"
